@@ -15,3 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Project governance files: LICENSE (MIT), CONTRIBUTING.md, CODE_OF_CONDUCT.md
 - PROJECT_SCOPE.md with explicit non-goals
 - ROADMAP.md with phased development plan
+
+### Changed
+
+- Cleaned up markdown encoding and public-release wording across the README, guides, templates, examples, and Claude workflow files

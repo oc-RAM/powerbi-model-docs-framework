@@ -41,10 +41,10 @@ This is faster than starting from blank templates.
 
 After documenting your own model, compare your files to the example:
 
-- Is your model overview as clear
-- Does your measure catalog include business context
-- Does your business glossary address potential term confusion
-- Do your release notes capture meaningful changes
+- Is your model overview as clear?
+- Does your measure catalog include business context?
+- Does your business glossary address potential term confusion?
+- Do your release notes capture meaningful changes?
 
 ## What the Example Is Not
 

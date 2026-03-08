@@ -15,7 +15,7 @@ Assume the reader is a competent Power BI developer joining the project for the 
 
 ### Business Context Matters More Than Technical Descriptions
 
-For every measure, answer: "Why does this measure exist What decision does it support" A DAX expression tells you **what** it calculates. Business context tells you **why** anyone cares.
+For every measure, answer: "Why does this measure exist? What decision does it support?" A DAX expression tells you **what** it calculates. Business context tells you **why** anyone cares.
 
 ### Use Consistent Language
 
@@ -63,10 +63,10 @@ Abbreviated DAX is not useful. Include the complete expression. If it is too lon
 
 Standard relationships (many-to-one, single-direction) need minimal notes. Spend your documentation effort on:
 
-- Bidirectional cross-filters (why do they exist)
-- Inactive relationships (what measures use them)
-- Many-to-many relationships (what are the consequences)
-- Role-playing dimensions (which path is active)
+- Bidirectional cross-filters (why do they exist?)
+- Inactive relationships (what measures use them?)
+- Many-to-many relationships (what are the consequences?)
+- Role-playing dimensions (which path is active?)
 
 ## KPI Definitions
 
