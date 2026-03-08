@@ -152,6 +152,21 @@ If you use [Claude Code](https://claude.ai/claude-code), this repository include
 
 Claude Code support is optional. The framework is fully usable without it. See [guides/claude-code-integration.md](guides/claude-code-integration.md) for setup details.
 
+## AI-Assisted Documentation Workflows
+
+This framework is designed to work well with AI-assisted development tools such as Claude Code.
+
+Claude can help automate parts of the documentation workflow, including:
+
+• generating measure catalog entries from DAX expressions  
+• reviewing model documentation for completeness  
+• scaffolding documentation templates for new semantic models  
+• validating that required documentation files exist in a project  
+
+The repository includes example Claude Code skills that demonstrate how AI can support consistent analytics documentation while keeping humans in control of the documentation process.
+
+The goal is to combine structured documentation practices with AI-assisted workflows to make maintaining BI model documentation easier and more reliable.
+
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
