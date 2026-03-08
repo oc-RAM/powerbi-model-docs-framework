@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code local overrides
+.claude.local.md
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node (if future tooling is added)
+node_modules/
+package-lock.json
+
+# Python (if future scripts are added)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI files (not part of this framework)
+*.pbix
+*.pbit
+*.pbip
+
+# Exports and data files (keep repo lightweight)
+*.csv
+*.xlsx
+*.json
+!package.json
+
+# Logs
+*.log
